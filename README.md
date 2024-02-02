@@ -12,7 +12,7 @@ Currently, two official plugins are available:
 ## Start
 
 ```
-num run dev
+npm run dev
 ```
 
 
